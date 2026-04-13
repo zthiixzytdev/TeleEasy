@@ -23,7 +23,7 @@ By default, TeleEasy uses a single key to activate teleportation. Players can fr
 
 ## License
 
-MIT License. See LICENSE.txt for full details.
+All rights reserved
 
 ---
 
